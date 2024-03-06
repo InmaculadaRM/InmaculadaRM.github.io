@@ -6,8 +6,8 @@
 
 © Pictures of Alba by Inma Ruiz . All rights reserved.
 
-I don´t know much of HTML or CSS, but I was able to do this website thanks to the tutorial by Sarah Schöttler : 
-Build your personal or project website with GitHub Pages. from the Centre of Data and Society of The university of Edinburgh
+I don´t know much of HTML or CSS, but I was able to do this website thanks to the tutorial: 
+Build your personal or project website with GitHub Pages. by Sarah Schöttler from the Centre of Data and Society of The university of Edinburgh
 
 I have used one of the themes designed by: HTML5 UP . Thanks.
 
